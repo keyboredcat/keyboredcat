@@ -1,4 +1,5 @@
-## Hi there 👋
+🔭 I’m interested in data science, machine learning, time series forecasting, and statistical analysis.
+🌱 I’m currently learning Python, NumPy, Pandas, Matplotlib, Tensorflow, and PyTorch.
 
 <!--
 **keyboredcat/keyboredcat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
