@@ -1,4 +1,4 @@
-<img src="https://github.com/keyboredcat/keyboredcat/blob/main/keyboardcat.gif" alt="keyboard" width="200"/>
+<img src="https://github.com/keyboredcat/keyboredcat/blob/main/keyboardcat.gif" alt="keyboard" width="150"/>
 
 - 🔭 I’m interested in data science, machine learning, time-series forecasting, and statistical analysis.
 - 🌱 I’m currently learning Python, NumPy, Pandas, Matplotlib, Tensorflow, and PyTorch.
