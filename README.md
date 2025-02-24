@@ -1,7 +1,7 @@
 <img src="https://github.com/keyboredcat/keyboredcat/blob/main/keyboardcat.gif" alt="keyboard" width="150"/>
 
 - 🔭 I’m interested in data modelling, web automation and warehousing.
-- 🌱 I’m currently building data mining scripts, data pipelines.
+- 🌱 I’m currently building data mining scripts, data pipelines on GCP.
 
 ```python
 while (noSuccess):
