@@ -4,10 +4,12 @@
 - 🌱 I’m currently building web scraping programs and data pipelines on GCP.
 
 ```python
-while (noSuccess):
-    tryAgain()
-    if (Dead):
-        break
+def retry(one_more_time):
+    def try_again(this, alive, success):
+        if not alive or success(this):
+            return this
+        return try_again(one_more_time(this), heartbeat(bpm) > 0, success)
+    return try_again
 ```
 
   check out my stuff 👇
