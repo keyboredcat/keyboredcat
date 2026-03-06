@@ -1,8 +1,5 @@
 <img src="https://github.com/keyboredcat/keyboredcat/blob/main/keyboardcat.gif" alt="keyboard" width="150"/>
 
-- 🔭 I’m interested in data modelling, warehousing and orchestration.
-- 🌱 I’m currently building web scraping programs and data pipelines on GCP.
-
 ```python
 def retry(one_more_time):
     def try_again(this, alive, success):
